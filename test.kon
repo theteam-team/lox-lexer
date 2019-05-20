@@ -1,0 +1,9 @@
+// iam a cimment 
+print "Mo Adel";
+
+fun sum(var x, var y)
+{
+    return x+y;
+}
+
+print sum(3, 5);
